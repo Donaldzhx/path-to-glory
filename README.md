@@ -1,12 +1,19 @@
-<style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
     .line {
         border-top:1px solid grey;
         height:3px;
         margin-bottom:10px;
     }
-</style>
-
-![游戏插图](screenshot.png)
+    </style>
+</head>
+<body>
+    ![游戏插图](screenshot.png)
 > <span style = "font-size:14px;line-height:2.5">1254 AD</span>
 > <span style = "font-size:14px;line-height:2.5">The Kingdom of Syldavia is being invaded by the Northern Empire.</span>
 > <span style = "font-size:14px;line-height:2.5">The Syldavian army is outnumbered and outmatched.</span>
@@ -38,4 +45,7 @@ when opening debug.html:
 <div class = "line"></div>
 Feel free to read the code but don't use it for commercial purposes.The game is the result of a lot of hard work and I wish to maintain all rights to it
 
-Please reach out if you wish to distribute the game onyour portal
+Please reach out if you wish to distribute the game onyour portal  
+</body>
+</html>
+
