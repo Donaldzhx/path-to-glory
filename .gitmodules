@@ -1,0 +1,3 @@
+[submodule "Efficient-Compression-Tool"]
+	path = Efficient-Compression-Tool
+	url = git@github.com:fhanau/Efficient-Compression-Tool.git
