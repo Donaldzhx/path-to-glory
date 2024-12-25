@@ -37,6 +37,6 @@ When opening `debug.html`:
 
 # License
 
-Feel free to read the code but don't use it for commercial purposes. The game is the result of a lot of hard work and I wish to maintain all rights to it.
-
-Please reach out if you wish to distribute the game on your portal.
+It is just a copy from [remvst](https://github.com/remvst/).
+I am just a new-starter,wangting practise from it.
+Please don't use it for commercial aims.
