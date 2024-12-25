@@ -37,6 +37,6 @@ When opening `debug.html`:
 
 # License
 
-It is just a copy from [remvst](https://github.com/remvst/).
-I am just a new-starter,wangting practise from it.
-Please don't use it for commercial aims.
+It is just a copy from [remvst](https://github.com/remvst/).  
+I am just a new-starter,wangting practise from it.  
+Please don't use it for commercial aims.  
