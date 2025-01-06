@@ -1,0 +1,23 @@
+{
+  "name": "git_repo",
+  "version": "1.0.0",
+  "description": "Compiles games and optimizes them more than regular minifiers.",
+  "main": "analyze.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "html-minifier": "^4.0.0",
+    "mustache": "^4.2.0",
+    "node-zip": "^1.0.1",
+    "uglify-js": "^3.19.3"
+  },
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
