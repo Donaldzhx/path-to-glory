@@ -61,7 +61,7 @@ module.exports = (source, minify) => {
         console.log(word + ' -> ' + ' (' + (lengthAfter - lengthBefore) + ' chars)');
     }
 
-    let uglified = uglifyJS.minify(source, {
+    const uglified = uglifyJS.minify(source, {
         fromString: true,
         mangle: false,
         mangleProperties: false,

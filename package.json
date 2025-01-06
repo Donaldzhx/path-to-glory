@@ -1,19 +1,20 @@
 {
-  "name": "git_repo",
-  "version": "1.0.0",
-  "description": "Compiles games and optimizes them more than regular minifiers.",
-  "main": "analyze.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
+  "name": "js13k-compiler",
+  "version": "0.0.1",
+  "description": "Compiler designed for the JS13K game development contest.",
+  "main": "src/compiler.js",
+  "author": "Donaldzhx",
   "license": "ISC",
   "dependencies": {
+    "clean-css": "^5.3.3",
+    "colors": "^1.4.0",
+    "express": "^4.21.2",
     "fs": "^0.0.1-security",
     "html-minifier": "^4.0.0",
     "mustache": "^4.2.0",
     "node-zip": "^1.0.1",
+    "roadroller": "^2.1.0",
+    "terser": "^5.37.0",
     "uglify-js": "^3.19.3"
   },
   "devDependencies": {
